@@ -8,7 +8,14 @@ _From Wikipedia_: Top Trumps is a card game. Each card contains a list of numeri
 
 **How will Twump work exactly?**
 
-Twump will be a Twitter based implementation of the standard top trumps game. Users will login to twump.me with their Twitter credentials. They will then be presented with a list of other online players who they can battle using decks of trump cards. The decks of based on your Twitter followers and each card uses your follower's statistics. More details on the rules of the game can be found in the document rules_of_twump
+Twump will be a Twitter based implementation of the standard top trumps game. Users will login to twump.me with their Twitter credentials. They will then be presented with a list of other online players who they can battle using decks of trump cards. The decks are based on your Twitter followers and each card uses your follower's statistics including:
+
+*Number of tweets
+*Number of followers
+*Number following
+*How long they've been a Twitter member for
+
+More details on the rules of the game can be found in the document rules_of_twump
 
 
 
