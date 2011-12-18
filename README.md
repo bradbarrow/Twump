@@ -4,7 +4,7 @@ Welcome to Twump's github page. We're excited to develop this little game. It's 
 
 **About the game of top trumps**
 
-__From Wikipedia__: Top Trumps is a card game. Each card contains a list of numerical data, and the aim of the game is to compare these values in order to try to trump and win an opponent's card. A wide variety of different packs of Top Trumps have been published. More details on the rules of the game can be found in the document rules_of_top_trumps
+_From Wikipedia_: Top Trumps is a card game. Each card contains a list of numerical data, and the aim of the game is to compare these values in order to try to trump and win an opponent's card. A wide variety of different packs of Top Trumps have been published. More details on the rules of the game can be found in the document rules_of_top_trumps
 
 **How will Twump work exactly?**
 
